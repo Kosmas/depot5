@@ -171,7 +171,7 @@ DEPENDENCIES
   turbolinks (~> 5.x)
   tzinfo-data
   uglifier (~> 3.0.2)
-  web-console (~> 3.3.0)
+  web-console (~> 3.3.1)
 
 BUNDLED WITH
    1.12.5
